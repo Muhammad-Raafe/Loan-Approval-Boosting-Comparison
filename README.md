@@ -2,7 +2,7 @@
 
 An interactive machine learning web app that predicts whether a loan application will be **Approved** or **Rejected**, comparing three powerful gradient boosting algorithms — CatBoost, XGBoost, and LightGBM — each hyperparameter-tuned with GridSearchCV. Built with Scikit-learn and deployed with Streamlit.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here]
+🔗 **Live Demo:** https://loan-approval-boosting-comparison-raafe.streamlit.app/
 
 ⚠️ **Disclaimer:** This project is for educational and portfolio purposes only and does not reflect real lending or credit decisions.
 
